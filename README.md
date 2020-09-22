@@ -1,3 +1,5 @@
+## You can run the deployed app from [this link](https://slack-clone-a0cc6.web.app).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
